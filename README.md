@@ -1,2 +1,0 @@
-# odliczania.pl
-odliczanie
